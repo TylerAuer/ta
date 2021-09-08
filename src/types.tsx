@@ -23,6 +23,7 @@ export enum GenresEnum {
   'short stories' = 'short stories',
   'social & political sciences' = 'social & political sciences',
   'sports & games' = 'sports & games',
+  'tech' = 'tech',
   'under the radar' = 'under the radar',
   'young adult' = 'young adult',
 }
